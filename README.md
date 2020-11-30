@@ -25,6 +25,6 @@ api.quotable.io/random  | random personality quotes.
 https://anapioficeandfire.com/ | games of throne database.
 https://breakingbadapi.com/documentation | breaking bad database.
 https://breaking-bad-quotes.herokuapp.com/v1/quotes | get breaking bad random quote.
-https://www.metaweather.com | wheader prediction api.
+https://www.metaweather.com | wheather prediction api.
 
 
