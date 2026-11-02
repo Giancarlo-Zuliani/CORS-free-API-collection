@@ -26,5 +26,6 @@ https://anapioficeandfire.com/ | games of throne database.
 https://breakingbadapi.com/documentation | breaking bad database.
 https://breaking-bad-quotes.herokuapp.com/v1/quotes | get breaking bad random quote.
 https://www.metaweather.com | wheather prediction api.
+https://bucketlist.nl/brand/droom-van-de-dag.openapi.json | one daily experience with image and source URL (Dutch by default)
 
 
